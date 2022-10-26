@@ -1,0 +1,1 @@
+client_script 'help_de.lua' 
